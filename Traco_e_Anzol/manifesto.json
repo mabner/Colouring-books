@@ -1,0 +1,258 @@
+[
+  {
+    "pagina": 1,
+    "capitulo": 1,
+    "titulo": "Amanhã na Corredeira",
+    "ficha": "01_Paisagens/fichas/01_amanha_na_corredeira.md",
+    "imagem": "01_Paisagens/imagens/01_amanha_na_corredeira.png",
+    "origem_imagem": "pescador_em_rio_montanhoso_entre_nuvens.png"
+  },
+  {
+    "pagina": 2,
+    "capitulo": 1,
+    "titulo": "Espelho d’Água ao Amanhecer",
+    "ficha": "01_Paisagens/fichas/02_espelho_dagua_ao_amanhecer.md",
+    "imagem": "01_Paisagens/imagens/02_espelho_dagua_ao_amanhecer.png",
+    "origem_imagem": "amanhecer_sereno_no_lago.png"
+  },
+  {
+    "pagina": 3,
+    "capitulo": 1,
+    "titulo": "Pesca de Praia",
+    "ficha": "01_Paisagens/fichas/03_pesca_de_praia.md",
+    "imagem": "01_Paisagens/imagens/03_pesca_de_praia.png",
+    "origem_imagem": "pesca_ao_amanhecer_na_praia.png"
+  },
+  {
+    "pagina": 4,
+    "capitulo": 1,
+    "titulo": "O Manguezal Silvestre",
+    "ficha": "01_Paisagens/fichas/04_manguezal_silvestre.md",
+    "imagem": "01_Paisagens/imagens/04_manguezal_silvestre.png",
+    "origem_imagem": "pescaria_de_caiaque_no_manguezal.png"
+  },
+  {
+    "pagina": 5,
+    "capitulo": 1,
+    "titulo": "O Poço Pedregoso",
+    "ficha": "01_Paisagens/fichas/05_poco_pedregoso.md",
+    "imagem": "01_Paisagens/imagens/05_poco_pedregoso.png",
+    "origem_imagem": "pescador_no_poço_do_rio.png"
+  },
+  {
+    "pagina": 6,
+    "capitulo": 2,
+    "titulo": "A Caixa de Moscas — Dry Flies & Nymphs",
+    "ficha": "02_Fly_Fishing/fichas/06_caixa_de_moscas.md",
+    "imagem": "02_Fly_Fishing/imagens/06_caixa_de_moscas.png",
+    "origem_imagem": "caixa_de_moscas_em_mesa_rústica.png"
+  },
+  {
+    "pagina": 7,
+    "capitulo": 2,
+    "titulo": "O Conjunto de Fly",
+    "ficha": "02_Fly_Fishing/fichas/07_conjunto_de_fly.md",
+    "imagem": "02_Fly_Fishing/imagens/07_conjunto_de_fly.png",
+    "origem_imagem": "natureza_e_pesca_com_mosca_em_detalhes.png"
+  },
+  {
+    "pagina": 8,
+    "capitulo": 2,
+    "titulo": "Mesa de Fly-Tying",
+    "ficha": "02_Fly_Fishing/fichas/08_mesa_de_fly_tying.md",
+    "imagem": "02_Fly_Fishing/imagens/08_mesa_de_fly_tying.png",
+    "origem_imagem": "bancada_de_atado_de_moscas.png"
+  },
+  {
+    "pagina": 9,
+    "capitulo": 2,
+    "titulo": "O Ataque na Superfície",
+    "ficha": "02_Fly_Fishing/fichas/09_ataque_na_superficie.md",
+    "imagem": "02_Fly_Fishing/imagens/09_ataque_na_superficie.png",
+    "origem_imagem": "truta_subindo_ao_mosquito_no_rio.png"
+  },
+  {
+    "pagina": 10,
+    "capitulo": 3,
+    "titulo": "Tucunaré-Açu",
+    "ficha": "03_Peixes_Brasileiros/fichas/10_tucunare_acu.md",
+    "imagem": "03_Peixes_Brasileiros/imagens/10_tucunare_acu.png",
+    "origem_imagem": "tucunaré_açu_em_salto_explosivo.png"
+  },
+  {
+    "pagina": 11,
+    "capitulo": 3,
+    "titulo": "O Dourado",
+    "ficha": "03_Peixes_Brasileiros/fichas/11_dourado.md",
+    "imagem": "03_Peixes_Brasileiros/imagens/11_dourado.png",
+    "origem_imagem": "dourado_nas_corredeiras_do_rio.png"
+  },
+  {
+    "pagina": 12,
+    "capitulo": 3,
+    "titulo": "A Traíra",
+    "ficha": "03_Peixes_Brasileiros/fichas/12_traira.md",
+    "imagem": "03_Peixes_Brasileiros/imagens/12_traira.png",
+    "origem_imagem": "traíra_entre_raízes_e_vegetação_submersa.png"
+  },
+  {
+    "pagina": 13,
+    "capitulo": 3,
+    "titulo": "O Pirarucu",
+    "ficha": "03_Peixes_Brasileiros/fichas/13_pirarucu.md",
+    "imagem": "03_Peixes_Brasileiros/imagens/13_pirarucu.png",
+    "origem_imagem": "pirarucu_gigante_nas_águas_amazônicas.png"
+  },
+  {
+    "pagina": 14,
+    "capitulo": 3,
+    "titulo": "O Robalo-Flecha",
+    "ficha": "03_Peixes_Brasileiros/fichas/14_robalo_flecha.md",
+    "imagem": "03_Peixes_Brasileiros/imagens/14_robalo_flecha.png",
+    "origem_imagem": "robalo_flecha_no_manguezal_subaquático.png"
+  },
+  {
+    "pagina": 15,
+    "capitulo": 3,
+    "titulo": "O Pintado",
+    "ficha": "03_Peixes_Brasileiros/fichas/15_pintado.md",
+    "imagem": "03_Peixes_Brasileiros/imagens/15_pintado.png",
+    "origem_imagem": "pintado_gigante_no_fundo_do_rio.png"
+  },
+  {
+    "pagina": 16,
+    "capitulo": 4,
+    "titulo": "Engenharia das Hard Baits",
+    "ficha": "04_Baitcasting_e_Spinning/fichas/16_hard_baits.md",
+    "imagem": "04_Baitcasting_e_Spinning/imagens/16_hard_baits.png",
+    "origem_imagem": "iscas_artificiais_em_águas_agitadas.png"
+  },
+  {
+    "pagina": 17,
+    "capitulo": 4,
+    "titulo": "A Caixa de Pesca Recheada",
+    "ficha": "04_Baitcasting_e_Spinning/fichas/17_caixa_de_pesca.md",
+    "imagem": "04_Baitcasting_e_Spinning/imagens/17_caixa_de_pesca.png",
+    "origem_imagem": "caixa_de_pesca_no_cais_rústico.png"
+  },
+  {
+    "pagina": 18,
+    "capitulo": 4,
+    "titulo": "Conjunto de Carretilha de Perfil Baixo",
+    "ficha": "04_Baitcasting_e_Spinning/fichas/18_carretilha_perfil_baixo.md",
+    "imagem": "04_Baitcasting_e_Spinning/imagens/18_carretilha_perfil_baixo.png",
+    "origem_imagem": "carretilha_à_beira_do_rio.png"
+  },
+  {
+    "pagina": 19,
+    "capitulo": 4,
+    "titulo": "O Universo das Soft Baits",
+    "ficha": "04_Baitcasting_e_Spinning/fichas/19_soft_baits.md",
+    "imagem": "04_Baitcasting_e_Spinning/imagens/19_soft_baits.png",
+    "origem_imagem": "guia_ilustrado_de_iscas_de_pesca.png"
+  },
+  {
+    "pagina": 20,
+    "capitulo": 4,
+    "titulo": "Nós e Acessórios de Pesca",
+    "ficha": "04_Baitcasting_e_Spinning/fichas/20_nos_e_acessorios.md",
+    "imagem": "04_Baitcasting_e_Spinning/imagens/20_nos_e_acessorios.png",
+    "origem_imagem": "guia_ilustrado_de_nós_e_acessórios_de_pesca.png"
+  },
+  {
+    "pagina": 21,
+    "capitulo": 5,
+    "titulo": "Truta-Arco-Íris",
+    "ficha": "05_Classicos_Internacionais/fichas/21_truta_arco_iris.md",
+    "imagem": "05_Classicos_Internacionais/imagens/21_truta_arco_iris.png",
+    "origem_imagem": "truta_arco_íris_no_rio_da_montanha.png"
+  },
+  {
+    "pagina": 22,
+    "capitulo": 5,
+    "titulo": "O Tarpon",
+    "ficha": "05_Classicos_Internacionais/fichas/22_tarpon.md",
+    "imagem": "05_Classicos_Internacionais/imagens/22_tarpon.png",
+    "origem_imagem": "tarpon_saltando_entre_manguezais_e_ondas.png"
+  },
+  {
+    "pagina": 23,
+    "capitulo": 5,
+    "titulo": "Mahi-Mahi — Dourado-do-Mar",
+    "ficha": "05_Classicos_Internacionais/fichas/23_mahi_mahi.md",
+    "imagem": "05_Classicos_Internacionais/imagens/23_mahi_mahi.png",
+    "origem_imagem": "dourado_do_mar_saltando_entre_ondas.png"
+  },
+  {
+    "pagina": 24,
+    "capitulo": 5,
+    "titulo": "O Black Bass",
+    "ficha": "05_Classicos_Internacionais/fichas/24_black_bass.md",
+    "imagem": "05_Classicos_Internacionais/imagens/24_black_bass.png",
+    "origem_imagem": "black_bass_em_emboscada_subaquática.png"
+  },
+  {
+    "pagina": 25,
+    "capitulo": 5,
+    "titulo": "O Salmão-Rei",
+    "ficha": "05_Classicos_Internacionais/fichas/25_salmao_rei.md",
+    "imagem": "05_Classicos_Internacionais/imagens/25_salmao_rei.png",
+    "origem_imagem": "salmão_chinook_nas_correntezas_do_rio.png"
+  },
+  {
+    "pagina": 26,
+    "capitulo": 6,
+    "titulo": "O Arsenal da Praia",
+    "ficha": "06_Surfcasting/fichas/26_arsenal_da_praia.md",
+    "imagem": "06_Surfcasting/imagens/26_arsenal_da_praia.png",
+    "origem_imagem": "pesca_de_arremesso_na_praia_brasileira.png"
+  },
+  {
+    "pagina": 27,
+    "capitulo": 6,
+    "titulo": "A Betara e o Pampo",
+    "ficha": "06_Surfcasting/fichas/27_betara_e_pampo.md",
+    "imagem": "06_Surfcasting/imagens/27_betara_e_pampo.png",
+    "origem_imagem": "peixes_no_fundo_do_mar.png"
+  },
+  {
+    "pagina": 28,
+    "capitulo": 6,
+    "titulo": "O Farol e o Costão Rochoso",
+    "ficha": "06_Surfcasting/fichas/28_farol_e_costao.md",
+    "imagem": "06_Surfcasting/imagens/28_farol_e_costao.png",
+    "origem_imagem": "pescador_no_costão_com_farol.png"
+  },
+  {
+    "pagina": 29,
+    "capitulo": 6,
+    "titulo": "Chumbadas, Anzóis e Chicotes",
+    "ficha": "06_Surfcasting/fichas/29_chumbadas_e_chicotes.md",
+    "imagem": "06_Surfcasting/imagens/29_chumbadas_e_chicotes.png",
+    "origem_imagem": "infográfico_de_pesca_de_praia_em_nanquim.png"
+  },
+  {
+    "pagina": 30,
+    "capitulo": 7,
+    "titulo": "Mandala de Escamas e Ondas",
+    "ficha": "07_Encerramento/fichas/30_mandala_de_escamas.md",
+    "imagem": "07_Encerramento/imagens/30_mandala_de_escamas.png",
+    "origem_imagem": "mandala_de_pesca_e_ondas.png"
+  },
+  {
+    "pagina": 31,
+    "capitulo": 7,
+    "titulo": "Mandala de Penas e Moscas",
+    "ficha": "07_Encerramento/fichas/31_mandala_de_penas.md",
+    "imagem": "07_Encerramento/imagens/31_mandala_de_penas.png",
+    "origem_imagem": "mandala_de_moscas_e_penas_de_pesca.png"
+  },
+  {
+    "pagina": 32,
+    "capitulo": 7,
+    "titulo": "O Canto do Pescador",
+    "ficha": "07_Encerramento/fichas/32_canto_do_pescador.md",
+    "imagem": "07_Encerramento/imagens/32_canto_do_pescador.png",
+    "origem_imagem": "carretéis_de_pesca_na_prateleira_detalhada.png"
+  }
+]
