@@ -20,7 +20,7 @@ O dourado é conhecido pela força, pela dentição e pelos deslocamentos em sis
 
 ## 🔎 Observação técnica e editorial
 
-Mandíbula e dentes devem ser anatomicamente plausíveis; não é necessário retratá-lo sempre saltando.
+Conferir boca de predador, dentes cônicos, corpo fusiforme e nadadeira caudal bifurcada. Preservar o desenho individual de cada nadadeira e evitar confundir o dourado de rio com o dourado-do-mar (*Coryphaena hippurus*) da página 23. O tratamento de anzóis, líderes e empates depende da técnica e não deve ser apresentado como regra universal.
 
 ---
 
