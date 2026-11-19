@@ -20,7 +20,7 @@ O pirarucu respira ar atmosférico e precisa subir à superfície regularmente. 
 
 ## 🔎 Observação técnica e editorial
 
-Nadadeiras dorsal e anal concentram-se na porção posterior do corpo; evitar a silhueta de um peixe genérico.
+O pirarucu tem cabeça alongada com placas ósseas, corpo comprido coberto de grandes escamas e boca voltada ligeiramente para cima. As nadadeiras **dorsal e anal ficam na parte posterior**, próximas à cauda; não inserir uma dorsal alta na região média como a de peixes genéricos. Conferir também a cauda relativamente curta e arredondada na composição.
 
 ---
 
