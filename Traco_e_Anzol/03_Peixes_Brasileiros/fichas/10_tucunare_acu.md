@@ -20,7 +20,9 @@ O tucunaré-açu apresenta variação de padrões conforme fase de vida e condi�
 
 ## 🔎 Observação técnica e editorial
 
-Representar corpo robusto, boca ampla, nadadeira dorsal típica dos ciclídeos e ocelo perto da base da cauda.
+**Versão editorial aprovada:** a nova ilustração substitui a composição inicial e enfatiza o corpo robusto, a boca ampla, a nadadeira dorsal contínua (porção espinhosa e porção de raios moles), as barras escuras e o ocelo na base da cauda. Conferir estes elementos na prova gráfica, sem apresentar o desenho como identificação zoológica definitiva.
+
+**Estado da arte:** substituição do PNG realizada pelo responsável pelo projeto no repositório; manter a versão atual do caminho indicado acima como referência para a diagramação.
 
 ---
 
