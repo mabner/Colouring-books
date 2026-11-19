@@ -20,7 +20,7 @@ Bagres utilizam barbilhões como órgãos sensoriais. O padrão de manchas auxil
 
 ## 🔎 Observação técnica e editorial
 
-Não desenhar escamas grandes típicas de peixes escamados; destacar barbilhões e nadadeiras próprias dos bagres.
+**Peixe de couro:** não representar escamas sobre o corpo. Evidenciar cabeça deprimida, boca ampla, pares de barbilhões e manchas características sobre a pele lisa, além da nadadeira adiposa e das demais nadadeiras coerentes com um bagre. Manchas não substituem estruturas anatômicas. Uma ilustração com padrão de escamas exigirá correção antes de ser aprovada para impressão.
 
 ---
 
