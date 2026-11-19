@@ -20,7 +20,7 @@ A traíra pode permanecer imóvel à espera de presas e possui dentes muito dese
 
 ## 🔎 Observação técnica e editorial
 
-Valorizar cabeça larga, boca grande, dentes e padrão irregular de camuflagem.
+Valorizar cabeça larga, boca grande, dentes cônicos evidentes, corpo alongado e padrão irregular de camuflagem. **Nota taxonômica:** a designação popular “traíra” abrange diferentes espécies; o grupo *Hoplias malabaricus* contém linhagens e espécies semelhantes, portanto a ilustração não deve ser tratada como identificação definitiva sem referência de exemplar e localidade.
 
 ---
 
