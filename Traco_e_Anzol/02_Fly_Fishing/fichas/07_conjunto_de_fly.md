@@ -20,7 +20,7 @@ A carretilha de fly armazena a linha e pode oferecer freio; no arremesso, o peso
 
 ## 🔎 Observação técnica e editorial
 
-A carretilha possui um único pé de fixação, montado no reel seat da vara; não devem existir suportes duplicados.
+Uma carretilha de fly possui **um único pé de fixação** preso ao reel seat da vara; não adicionar um segundo pé no lado oposto. A linha de fly sai da bobina, passa pelos passadores e pela ponteira; cabo de cortiça, freio e manivela devem ser partes coerentes da mesma peça. Não representar uma carretilha de spinning ou baitcasting como se fosse equipamento de fly.
 
 ---
 
