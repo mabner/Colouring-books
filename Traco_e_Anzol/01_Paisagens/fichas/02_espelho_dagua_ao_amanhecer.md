@@ -20,7 +20,7 @@ Nas primeiras horas do dia, a luz rasante valoriza reflexos e silhuetas. Águas 
 
 ## 🔎 Observação técnica e editorial
 
-A composição privilegia natureza e atmosfera; a canoa não precisa de equipamentos adicionais.
+A composição privilegia natureza e atmosfera: a canoa não precisa de equipamentos adicionais. Manter casco, borda e sombra/reflexo coerentes com a posição do barco; troncos submersos e reflexos devem respeitar a linha d'água. A névoa é apenas uma sugestão tonal para quem colore, não preenchimento cinzento obrigatório na arte.
 
 ---
 
