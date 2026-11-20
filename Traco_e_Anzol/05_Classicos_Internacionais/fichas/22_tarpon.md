@@ -20,7 +20,7 @@ O tarpon pode respirar ar adicionalmente por meio da bexiga natatória modificad
 
 ## 🔎 Observação técnica e editorial
 
-Representar escamas grandes, boca oblíqua e o raio filamentoso da nadadeira dorsal quando visível.
+Conferir as **escamas muito grandes**, a boca ampla voltada obliquamente para cima com **mandíbula inferior projetada**, a cauda profundamente bifurcada e uma nadadeira dorsal relativamente curta cujo **último raio se prolonga em filamento**. Não confundir o filamento dorsal com linha de pesca ou nadadeira extra.
 
 ---
 
