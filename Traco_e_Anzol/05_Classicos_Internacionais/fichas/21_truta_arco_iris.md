@@ -20,7 +20,7 @@ Sua faixa rosada e a distribuição das pintas são importantes para reconhecime
 
 ## 🔎 Observação técnica e editorial
 
-O peixe tem nadadeira adiposa típica dos salmonídeos; pintas não devem substituir toda a anatomia.
+Verificar o corpo fusiforme, a pequena **nadadeira adiposa** entre a dorsal principal e a cauda, as manchas escuras distribuídas por dorso e nadadeiras e, quando visível, a faixa rosada lateral. A intensidade da faixa e das manchas varia entre indivíduos e ambientes; não transformar todas as pintas em círculos decorativos uniformes.
 
 ---
 
