@@ -20,7 +20,7 @@ Separar iscas por tamanho e tipo facilita trocas rápidas durante a pescaria; ma
 
 ## 🔎 Observação técnica e editorial
 
-A caixa deve apresentar divisórias funcionais e objetos com tamanho compatível com cada compartimento.
+A caixa precisa apresentar **divisórias funcionais**, dobradiças ou fechos coerentes e peças compatíveis com o espaço disponível. Iscas, garateias e jigs não devem atravessar divisórias como se fossem um único objeto. Distinguir iscas rígidas, iscas flexíveis e pequenos acessórios para preservar a proposta de uma página de organização.
 
 ---
 
