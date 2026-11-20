@@ -20,7 +20,7 @@ Chumbadas de garra, pirâmide e gota atendem situações diferentes de corrente 
 
 ## 🔎 Observação técnica e editorial
 
-O desenho não substitui um diagrama de montagem validado; verificar sentido dos snaps, giradores, derivações e posição da chumbada antes de publicação técnica.
+O desenho mostra uma **seleção ornamental de acessórios** e não substitui um diagrama de montagem validado. Conferir se chumbadas, anzóis, giradores, snaps e ramais de chicote se unem em pontos funcionalmente possíveis, sem linhas atravessando o metal. Não atribuir uma configuração única de chicote a todas as praias, correntes ou espécies, nem indicar resistência de componentes sem especificação.
 
 ---
 
