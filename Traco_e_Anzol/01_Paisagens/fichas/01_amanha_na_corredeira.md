@@ -20,7 +20,7 @@ No fly-fishing, o peso da linha — e não o da mosca — é fundamental para ca
 
 ## 🔎 Observação técnica e editorial
 
-Um loop de linha deve sair da ponta da vara de modo contínuo e fisicamente plausível; a carretilha fica fixa junto ao cabo, nunca solta na linha.
+Na ilustração aprovada, a linha deve sair da carretilha de fly, ser controlada pela mão livre do pescador, seguir pelos passadores e deixar a ponta da vara (*rod tip*) para formar o loop no ar, sem retornar ao tip. A vara e a linha são objetos distintos; não representar a linha saindo de roupas, pernas ou braços.
 
 ---
 
