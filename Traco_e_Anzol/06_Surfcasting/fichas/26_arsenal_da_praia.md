@@ -20,7 +20,7 @@ Equipamentos de surfcasting costumam privilegiar alcance, resistência à maresi
 
 ## 🔎 Observação técnica e editorial
 
-Molinetes devem estar montados abaixo das varas, com linha passando pelos passadores e suportes bem fixados.
+Em conjuntos de surfcasting com molinete, o equipamento deve ficar **sob a vara**, com pé fixado no reel seat, linha saindo da bobina pelo rolete do guia de linha e seguindo pelos passadores. O suporte deve estar fincado na areia e ser compatível com o peso/posição da vara. Não representar uma vara apoiada somente na linha ou com molinete solto.
 
 ---
 
