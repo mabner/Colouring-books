@@ -20,7 +20,7 @@ O surfcasting utiliza arremessos a partir da praia. A escolha do peso de chumbo 
 
 ## 🔎 Observação técnica e editorial
 
-A vara deve estar firmemente apoiada; a linha sai do carretel do molinete e percorre os passadores até o mar.
+A vara deve estar firmemente apoiada em suporte adequado, com o molinete fixado **sob a vara**. A linha sai da bobina do molinete, passa pelo rolete do guia de linha e pelos passadores, terminando na direção da água; não deve surgir do suporte ou da areia. O cenário não precisa representar uma montagem de anzóis em detalhe.
 
 ---
 

@@ -20,7 +20,7 @@ Estruturas como galhadas, mudanças de profundidade e remansos podem oferecer ab
 
 ## 🔎 Observação técnica e editorial
 
-Em baitcasting, a carretilha fica sobre a vara de casting, com a linha conduzida pelos passadores.
+Em baitcasting, a carretilha fica **sobre a vara de casting**, normalmente com cabo dotado de gatilho; a linha sai do guia da carretilha e segue pelos passadores. Não usar geometria de molinete por engano. Pedras, remansos, galhadas e mudanças de corrente devem sustentar a cena, sem transformar esta página de paisagem em um catálogo de equipamentos.
 
 ---
 
