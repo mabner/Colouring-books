@@ -20,7 +20,7 @@ A subida de uma truta para capturar um inseto de superfície pode produzir círc
 
 ## 🔎 Observação técnica e editorial
 
-A mosca deve estar efetivamente na superfície; o peixe sobe em direção ao inseto e não precisa saltar para capturá-lo.
+Uma mosca seca deve flutuar **na película superficial**, com anzol e hackle plausíveis e sem estar submersa como uma ninfa. A truta aproxima-se por baixo e os anéis de água partem do ponto de contato com a superfície. Caso a linha e o *tippet* sejam visíveis, devem permanecer unidos à mosca; evitar trechos desconectados ou sobreposição impossível com o peixe.
 
 ---
 
