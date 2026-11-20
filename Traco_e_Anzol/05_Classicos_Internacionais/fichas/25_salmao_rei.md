@@ -20,7 +20,7 @@ O chinook retorna a sistemas fluviais para desovar. A aparência de indivíduos 
 
 ## 🔎 Observação técnica e editorial
 
-Conservar a nadadeira adiposa e as proporções características de salmonídeos; não generalizar uma única cor reprodutiva.
+Conservar a **nadadeira adiposa**, corpo fusiforme, manchas escuras irregulares no dorso e, em exemplares típicos, **nos dois lobos da nadadeira caudal**. As gengivas escuras são um caráter de identificação quando a boca aparece. A coloração e o formato da cabeça variam com sexo e estágio reprodutivo; evitar atribuir uma cor nupcial única a todos os indivíduos.
 
 ---
 
