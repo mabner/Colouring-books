@@ -20,7 +20,7 @@ Uma linha lateral preta ou escura é característica visual evidente dos robalos
 
 ## 🔎 Observação técnica e editorial
 
-Respeitar a mandíbula inferior proeminente, o corpo alongado e as duas porções dorsais.
+Respeitar corpo alongado, focinho de perfil côncavo, **mandíbula inferior proeminente**, linha lateral escura contínua e **duas nadadeiras dorsais distintas e separadas** — não uma dorsal contínua semelhante à de um ciclídeo. Conferir posição relativa das nadadeiras pélvicas, peitorais e anal antes de classificar a arte como anatômica.
 
 ---
 
