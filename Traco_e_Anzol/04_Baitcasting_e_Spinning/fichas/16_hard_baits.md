@@ -20,7 +20,7 @@ A barbela de uma isca de meia-água influencia mergulho e ação, mas profundida
 
 ## 🔎 Observação técnica e editorial
 
-Pitões e garateias presos por argolas coerentes; popper com boca côncava e hélices presas a eixos plausíveis.
+Conferir pitões incorporados ao corpo da isca, argolas (*split rings*) e garateias suspensas apenas nos pontos de fixação. O popper tem **boca côncava**; minnow e crankbait podem ter barbelas com ângulos distintos; a hélice deve girar em eixo plausível. Evitar garateias fundidas ao corpo ou barbelas aplicadas a toda isca, inclusive modelos de superfície sem barbela.
 
 ---
 

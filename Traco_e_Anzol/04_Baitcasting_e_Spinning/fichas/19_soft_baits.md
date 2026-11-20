@@ -20,7 +20,7 @@ A cauda paddle de um shad oscila ao recolher; o grub usa cauda curva; worms e ca
 
 ## 🔎 Observação técnica e editorial
 
-Se mostrar montagens prontas, os anzóis devem entrar e sair nos locais coerentes do corpo de silicone.
+Distinguir shad de cauda *paddle*, grub de cauda curva, worm e camarão artificial; a peça plástica deve apresentar corpo flexível contínuo. Quando houver montagem com *jig head* ou anzol *offset*, conferir **ponto de entrada, percurso e saída da ponta** sem atravessar o corpo de forma impossível. Não acrescentar garateias a toda soft bait por padrão.
 
 ---
 

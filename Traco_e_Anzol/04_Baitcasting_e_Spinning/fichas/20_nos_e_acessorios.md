@@ -20,7 +20,7 @@ Nós como Albright e Bimini Twist têm aplicações específicas. A execução c
 
 ## 🔎 Observação técnica e editorial
 
-Os nós ilustrados aqui são ornamentais e não devem ser usados como tutorial de execução sem conferência técnica específica.
+As representações de Albright, Bimini Twist e conexões são **motivos ornamentais**, não instruções de amarração. Não numerar voltas nem indicar resistência/segurança de um nó sem validação técnica independente. Alicates, tesouras, snaps, giradores e carretéis devem conservar formas funcionais, com as linhas conectadas aos componentes corretos.
 
 ---
 
