@@ -20,7 +20,7 @@ Pesca em costões requer atenção permanente a ondulação, maré, piso escorre
 
 ## 🔎 Observação técnica e editorial
 
-A vara e molinete devem estar conectados corretamente; o cenário é artístico, não uma indicação de local seguro.
+Conferir vara, molinete, passadores e linha como componentes conectados de modo plausível. As rochas devem permitir visualmente uma posição estável, mas a cena não constitui orientação de acesso nem recomendação de pescar no local. Destacar, na ficha, que **ondas de ressaca e marés** podem alcançar áreas aparentemente secas.
 
 ---
 
