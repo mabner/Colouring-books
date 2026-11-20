@@ -20,7 +20,7 @@ Nomes populares variam por região; a identificação exata exige referência da
 
 ## 🔎 Observação técnica e editorial
 
-A arte atual é conceitual: confirmar identidade anatômica antes de tratá-la como prancha científica de espécies específicas.
+Os nomes **betara** e **pampo** são regionais e podem indicar espécies diferentes. Em geral, betaras do gênero *Menticirrhus* têm corpo alongado e boca inferior, por vezes com barbilhão no queixo; pampos *Trachinotus* exibem corpo comprimido e silhueta mais alta. Tratar a cena como **artística** até identificar, em referência, quais espécies estão efetivamente representadas no PNG.
 
 ---
 
