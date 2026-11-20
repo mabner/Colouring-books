@@ -20,7 +20,7 @@ O dourado-do-mar pode exibir mudanças rápidas de coloração, e machos adultos
 
 ## 🔎 Observação técnica e editorial
 
-Destacar a nadadeira dorsal longa e contínua, a cauda profundamente bifurcada e o perfil cefálico característico.
+Destacar **uma única nadadeira dorsal longa** que começa próximo à cabeça e se estende quase até a cauda, corpo alongado e comprimido lateralmente, nadadeira anal extensa e cauda profundamente bifurcada. Em machos adultos a testa pode ficar alta e quase vertical; fêmeas e juvenis têm perfil mais arredondado. Evitar aparência de dourado de água doce (*Salminus brasiliensis*).
 
 ---
 
