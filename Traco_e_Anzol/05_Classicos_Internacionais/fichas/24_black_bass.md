@@ -20,7 +20,7 @@ O black bass explora sombras, vegetação e estruturas para caçar. A abertura d
 
 ## 🔎 Observação técnica e editorial
 
-Corpo relativamente alto, boca grande e duas regiões distintas na nadadeira dorsal.
+Conferir a boca ampla, com a extremidade posterior da maxila ultrapassando o olho nos adultos, faixa lateral irregular e nadadeira dorsal **com duas porções contíguas** (espinhosa anterior e de raios moles posterior), separadas por uma incisura — não desenhar duas nadadeiras completamente isoladas. O nome popular black bass pode ser usado para mais de uma forma regional, de modo que a identificação deve seguir a referência biológica adotada.
 
 ---
 
