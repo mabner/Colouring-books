@@ -20,7 +20,7 @@ No fly-tying, a morsa prende o anzol, e o bobinador mantém o fio sob controle e
 
 ## 🔎 Observação técnica e editorial
 
-O anzol deve estar preso pela curvatura na morsa, mantendo espaço para atar corpo, asas e hackle.
+Na morsa (*vise*), o anzol deve ficar firme pela **curva ou porção adequada da haste**, com acesso livre à haste e ao olho para atar. O bobinador (*bobbin holder*) sustenta o carretel de fio e guia o fio até o anzol; tesouras, penas, pelos, dubbing e hackle precisam conservar formas e funções reconhecíveis. A cena é artística, não um tutorial passo a passo.
 
 ---
 
