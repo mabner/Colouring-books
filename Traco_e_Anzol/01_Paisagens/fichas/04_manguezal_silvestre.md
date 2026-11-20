@@ -20,7 +20,7 @@ Manguezais servem como áreas de abrigo e alimentação de numerosos organismos 
 
 ## 🔎 Observação técnica e editorial
 
-O equipamento usado no caiaque precisa manter o pescador equilibrado e a linha afastada de galhos e raízes.
+Compor um caiaque plausível em canal navegável, com pescador equilibrado e remo, quando visível, compatível com a posição das mãos. Se houver vara e linha, devem formar um conjunto conectado, sem atravessar o corpo, o casco ou raízes de maneira impossível. O ambiente deve valorizar as raízes aéreas e a vegetação dos manguezais, sem misturar fauna ou equipamento sem necessidade.
 
 ---
 
