@@ -20,7 +20,7 @@ Cada modalidade tem seu conjunto de peças e técnicas. Comparar as três carret
 
 ## 🔎 Observação técnica e editorial
 
-Usar exclusivamente a versão corrigida e aprovada da ilustração: carretilha de fly sem segundo pé de fixação.
+Usar exclusivamente a **versão corrigida e aprovada** da ilustração, com a carretilha de fly dotada de **um único pé de fixação**. Distinguir visualmente a carretilha de fly, o molinete e a carretilha de baitcasting; manter ferramentas e varas apoiadas ou expostas em posições possíveis. A cena é uma natureza-morta de encerramento, não um diagrama de montagem.
 
 ---
 

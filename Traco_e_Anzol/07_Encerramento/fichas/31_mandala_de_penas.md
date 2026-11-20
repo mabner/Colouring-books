@@ -20,7 +20,7 @@ Materiais como penas e fibras de vários tipos produzem diferentes silhuetas e m
 
 ## 🔎 Observação técnica e editorial
 
-As moscas são motivos gráficos; não interpretar o arranjo ornamental como instrução de atado.
+As penas, hackles e moscas são **motivos gráficos** distribuídos em simetria radial, não um esquema de atado. Quando anzóis aparecerem, manter curvas e olhos reconhecíveis sem multiplicar pontas ou pés de fixação impossíveis. A composição deve permitir colorir individualmente fibras e penas, sem transformar a página em catálogo técnico de moscas.
 
 ---
 
