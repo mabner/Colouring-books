@@ -20,7 +20,7 @@ Carretilhas de baitcasting têm carretel de eixo transversal à vara. O pescador
 
 ## 🔎 Observação técnica e editorial
 
-O carretel fica no plano correto, o guia de linha conduz o fio e o reel seat mantém a carretilha fixada sobre a vara.
+A carretilha de perfil baixo é fixada **sobre a vara de casting**, no reel seat adequado; o carretel gira em eixo transversal ao corpo da vara. Conferir manivela, estrela de fricção, comando de liberação de linha, guia de linha (*levelwind*, quando presente) e passadores da vara no mesmo lado de saída do fio. O gatilho do cabo não é suporte da linha.
 
 ---
 
