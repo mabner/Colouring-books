@@ -20,7 +20,7 @@ Moscas secas imitam insetos na superfície; ninfas representam estágios aquáti
 
 ## 🔎 Observação técnica e editorial
 
-Cada mosca deve conter um único anzol coerente, com penas e fibras presas ao corpo; a haste e a curvatura devem permanecer reconhecíveis.
+Cada padrão deve ter **um único anzol funcional**, com olho, haste, curva e ponta reconhecíveis. Fibras de cauda, asas e hackle precisam estar atados à haste em pontos plausíveis; moscas secas, ninfas e streamers não são intercambiáveis em forma e flutuabilidade. O estojo deve ter compartimentos que permitam reconhecer cada peça, sem fios ou anzóis fundidos entre si.
 
 ---
 
