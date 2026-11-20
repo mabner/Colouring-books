@@ -20,7 +20,7 @@ Padrões repetidos permitem experimentar combinações de cores e variações de
 
 ## 🔎 Observação técnica e editorial
 
-Página ornamental: a simetria e a distribuição das áreas de colorir são prioritárias.
+Página **ornamental e abstrata**: o ritmo visual de escamas, ondas e curvas importa mais do que a identificação de uma espécie. Preservar simetria geral, contornos fechados e áreas amplas para colorir, evitando hachuras tão densas que reduzam a utilidade do desenho. Padrões geométricos não devem ser apresentados como escamas anatomicamente fiéis.
 
 ---
 
